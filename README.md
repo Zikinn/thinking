@@ -1,2 +1,2 @@
 # thinking
-Some thoughts.
+一些思绪
